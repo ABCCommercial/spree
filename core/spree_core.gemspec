@@ -35,7 +35,7 @@ Gem::Specification.new do |s|
       s.add_runtime_dependency(%q<rd_resource_controller>, [">= 0"])
       s.add_runtime_dependency(%q<meta_search>, ["= 1.1.1"])
       s.add_runtime_dependency(%q<activemerchant>, ["= 1.17.0"])
-      s.add_runtime_dependency(%q<rails>, ["~> 3.1.12"])
+      s.add_runtime_dependency(%q<rails>, ["~> 3.2.22"])
       s.add_runtime_dependency(%q<kaminari>, [">= 0.12.4"])
       s.add_runtime_dependency(%q<deface>, [">= 0.7.0"])
     else
@@ -51,7 +51,7 @@ Gem::Specification.new do |s|
       s.add_dependency(%q<rd_resource_controller>, [">= 0"])
       s.add_dependency(%q<meta_search>, ["= 1.1.1"])
       s.add_dependency(%q<activemerchant>, ["= 1.17.0"])
-      s.add_dependency(%q<rails>, ["~> 3.1.12"])
+      s.add_dependency(%q<rails>, ["~> 3.2.22"])
       s.add_dependency(%q<kaminari>, [">= 0.12.4"])
       s.add_dependency(%q<deface>, [">= 0.7.0"])
     end
@@ -68,7 +68,7 @@ Gem::Specification.new do |s|
     s.add_dependency(%q<rd_resource_controller>, [">= 0"])
     s.add_dependency(%q<meta_search>, ["= 1.1.1"])
     s.add_dependency(%q<activemerchant>, ["= 1.17.0"])
-    s.add_dependency(%q<rails>, ["~> 3.1.12"])
+    s.add_dependency(%q<rails>, ["~> 3.2.22"])
     s.add_dependency(%q<kaminari>, [">= 0.12.4"])
     s.add_dependency(%q<deface>, [">= 0.7.0"])
   end
